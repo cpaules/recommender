@@ -4,6 +4,8 @@ Book Title
 Book Author
 Book rating
 
+A sample input file is provided as ratings.txt
+
 A sample output is as follows:
 
 Welcome to the Book Recommender. Type the word in the
